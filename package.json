@@ -1,0 +1,31 @@
+{
+  "name": "scratch-node-link",
+  "version": "0.1.0",
+  "description": "使用 nodejs 模拟 scratch-link 实现硬件连接",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micircle/scratch-node-link.git"
+  },
+  "keywords": [
+    "scratch",
+    "link",
+    "microbit",
+    "nodejs",
+    "scratch3.0",
+    "ble"
+  ],
+  "author": "KaneShao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Micircle/scratch-node-link/issues"
+  },
+  "homepage": "https://github.com/Micircle/scratch-node-link#readme",
+  "dependencies": {
+    "noble-mac": "https://github.com/Timeular/noble-mac.git",
+    "ws": "^7.1.1"
+  }
+}
