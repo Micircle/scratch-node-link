@@ -26,6 +26,6 @@
   "homepage": "https://github.com/Micircle/scratch-node-link#readme",
   "dependencies": {
     "noble-mac": "https://github.com/Timeular/noble-mac.git",
-    "ws": "^7.1.1"
+    "ws": "^7.4.6"
   }
 }
